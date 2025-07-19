@@ -1,0 +1,76 @@
+body{
+    background-color: lightgray;
+    font-family: 'roboto', sans-serif;
+}
+.container{
+    background-color: blue;
+    text-align: center;
+    color: white;
+    padding: 10px;
+
+}
+button{
+    border-radius: 2px;
+    padding: 5px 10px;
+    border: none;
+}
+h2{
+    color:blue;
+    font-size: 24px;
+}
+.content{
+    background-color: rgb(243, 243, 243);
+    color: black;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+}
+.exploration{
+    text-align: center;
+    border-radius: 25PX;
+}
+.exploration img{
+    width: 300px;
+    height: 200px;
+    border-radius: 25PX;
+    padding: 20PX;
+}
+.table{
+    margin: 20px auto;
+    width: 90%;
+    border-radius: 5px;
+    overflow: hidden;
+    background-color: rgb(164, 214, 179);
+    padding: 20px;
+
+}
+.table-header{
+    background-color: rgb(127, 255, 185);
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td{
+    border: 1px solid black;
+    padding: 10px;
+
+}
+.highlight{
+    background-color: rgb(255, 145, 0);
+}
+footer{
+  
+    margin: 20px;
+    padding: 10px;
+}
+h6{
+    color: rgb(255, 249, 249);
+    font-size: 20px;
+}
+.end{
+    background-color: royalblue;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
